@@ -1,3 +1,6 @@
+Оригинальный код    
+https://github.com/kvoloshenko/GPT_RAG_01   
+
 # Нейро-помощник с ChatGPT
 Этот нейро-помощник создан по технологии RAG (Retrieval-Augmented Generation) 
 
